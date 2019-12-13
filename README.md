@@ -154,15 +154,22 @@ Enfocado en servir las necesidades de CITGO, pero con la larga vision de poder m
 **Fase Desarollo**
 - [ ] Finalizacion de requerimientos funcionales
 - [ ] Prototipo de dashboard
-**Fase "Feedback"**\
+
+**Fase "Feedback"**
 - [ ] "Feeback" Agil de abogados acerca del dashboard, flujos, y procesos
 - [ ] Finalizacion de templates legales para Version 1
+
 **Fase Pruebas**
+
 - [ ] Pruebas de cumplimiento de requerimientos funcionales
 - [ ] Prubeas en vivo de dashboard
+
 **Lanzamiento**
+
 - [ ] Lanzamiento de dashboard Version 1
+
 **Mantenimieto y Evolucion**
+
 - Manteminiento de dashboard
 - Creacion de nuevos flujos y nuevos templates
 
@@ -176,24 +183,58 @@ Enfocado en servir las necesidades de CITGO, pero con la larga vision de poder m
 ---
 
 ## Discovery (Watson)
+*Manejo de Conocimiento via Inteligencia Artificial*
 
 #### Producto
+
+Un portal web - estilo Google - donde viven todos los documentos y contratos de la firma y atraves de los cuales los abogados pueden hacer busquedas potenciadas por inteligencia artificial.
+
 #### Proposito
+
+Apalancar los servicios de Watson para aumentar eficiencia, conocimiento, y aprendizaje dentro de la firma, y mantener un conocimiento general que crezca con la firma en lugar de solo los abogados.
+
 #### Funciones Preliminares
+1. - [ ] Existe un portal web de busquda a traves del cual se pueden generar busquedas
+2. - [ ] Las busquedas son potenciadas por el motor de Inteligencia Artificial de Watson para entregar resultados
+3. - [ ] En el portal web se pueden ver y explorar en detalle los resultados
+4. - [ ] Existe un mecanismo a traves del cual los documentos generados por la firma son guardados en el repositorio Watson.
+
 #### Ejecucion
+
 #### Cronografia
+Diciembre 2019
+ - [ ] Entrega de prototipo del portal web
+
+
+
 #### Recursos TZVS
+ - Coordinacion con Edgar para juntar el trabajo ya hecho con el trabajo restante
 
 ---
 
 
 ## Chatbot (Watson)
-
+*Legal Chatbot*
 #### Producto
+
+Portal web (o futuro app movil) a traves del cual clientes pueden hacer preguntas legales respondidas por Inteligencia Artificial.
+
 #### Proposito
+
+Apalancar los servicios de Watson para poder servir a mas clientes sin aumentar recursos legales y atraer nuevos clientes con un sistema de respuestas y comunicacion novedoso y mas eficaz.
+
 #### Funciones Preliminares
+
+1. - [ ] Existe un portal web a traves del cual usuarios pueden iniciar un chat
+1. - [ ] Las preguntas del chat son respondidas por el motor de Inteligencia Artificial de Watson y el banco de preguntas creado
+1. - [ ] Las sesiones y preguntas de los usuarios son guardadas para que el usuario pueda volver a su conversacion
+1. - [ ] Usando la conversacion - el sistema le notifica a los abogados que existe un pontencial nuevo cliente y cuales son sus inquietudes
+
+
 #### Ejecucion
 #### Cronografia
 #### Recursos TZVS
+ - creacion y manejo de banco de preguntas a traves del sistema Watson debe ser hecho por Edgar o los abogados
+ - colaboracion con Edgar para juntar el trabajo ya hecho con lo que falta hacer
 
 ---
