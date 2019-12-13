@@ -34,6 +34,13 @@ Por el momento los apps que vivirian ahi serian MinInspect, LegalTemplates(CITGO
 
 ## MinInspect
 
+https://minas.tzvs.tech
+```
+user:tzvs
+pass:minas
+```
+
+
 #### Producto
 *Inspectorio para inspecciones mineras*
 
